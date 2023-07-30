@@ -8,6 +8,7 @@
 body{
     /*background-color: rgba(135, 144, 146, 0.61);
 */
+height: 100vh;
 }
 h1{
     font-size: 1.6rem;
@@ -124,7 +125,7 @@ li{
 .dropup {
     position:relative;
     display: block;
-    padding: 10px;
+    padding: 10px 20px;
     font-weight: bold;
     text-align: end;
     
@@ -167,7 +168,7 @@ li{
     }
     .heading-left{
         min-width: 30%;
-       min-height: 100vh;
+       min-height: 97vh;
         
     }
     .main-content-right{
