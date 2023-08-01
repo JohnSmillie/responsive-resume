@@ -1,7 +1,7 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home2/johnsmi1/responsive-resume
+ - export DEPLOYPATH=/home2/johnsmi1/public_html/responsive-resume
  - /bin/cp index.html $DEPLOYPATH
  - /bin/cp -R img $DEPLOYPATH
  - /bin/cp -R css $DEPLOYPATH
